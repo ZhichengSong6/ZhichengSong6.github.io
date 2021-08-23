@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Education
 
-You can use the [editor on GitHub](https://github.com/ZhichengSong6/ZhichengSong6.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Bachelor: Huazhong University of Science and Technology(HUST), Marine Engineer. (2015-2019)
+Master: Columbia University in the City of New York, Mechanical Engineer(Robotics Tracks). (2019-2021)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
