@@ -1,7 +1,8 @@
 ## Education
 
-Bachelor: Huazhong University of Science and Technology(HUST), Marine Engineer. (2015-2019)
-Master: Columbia University in the City of New York, Mechanical Engineer(Robotics Tracks). (2019-2021)
+Bachelor: Huazhong University of Science and Technology(HUST), Marine Engineer. 2015-2019  
+
+Master: Columbia University in the City of New York, Mechanical Engineer(Robotics Tracks). 2019-2021  
 
 
 ### Markdown
