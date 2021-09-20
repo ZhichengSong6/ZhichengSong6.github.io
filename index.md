@@ -4,11 +4,11 @@
 
 2015.09 - 2019.07 Bachelor of Science in Marine Engineerinng, Huazhong University of Science and Technology
 
-### Research interets
+## Research interets
 Mechanical design and manufacture of bipedal/quadrupedal/wheeled/soft robot, Control and learning-based control for robot
 
-### Research experience
-#**Design and Control of Wheeled-Bipedal Robot**
+## Research experience
+###**Design and Control of Wheeled-Bipedal Robot**
 Advisor: Wei Zhang
 CLEAR LAB, Southern University of Science and Technology
 
