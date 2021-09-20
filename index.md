@@ -4,17 +4,28 @@
 
 2015.09 - 2019.07 Bachelor of Science in Marine Engineerinng, Huazhong University of Science and Technology
 
+## Publication
+Boxi Xia, Zhicheng Song†, Jiaming Fu†, Hongbo Zhu†, Yibo Jiang, Hod Lipson, “A Legged Soft Robot Platform for Dynamic Locomotion”, ICRA, 2021. († These authors contributed equally to this work.)
+
 ## Research interets
 Mechanical design and manufacture of bipedal/quadrupedal/wheeled/soft robot, Control and learning-based control for robot
 
 ## Research experience
-```markdown
-**Design and Control of Wheeled-Bipedal Robot**     
+
+### Design and Control of Wheeled-Bipedal Robot _(Ongoing)_    
 
 Advisor: Wei Zhang  
 CLEAR LAB, Southern University of Science and Technology
-```
-#** **
+
+### Soft Quadrupedal Robot with Bipedal Running Function _(2020.11 - 2021.05)_
+
+Advisor: Hod Lipson
+Creative Machicnes Lab, Columbia University
+
+### Soft Quadrupedal Robot Actuated by BLDC motor _(2020.02 - 2020.10)_
+
+Advisor: Hod Lipson
+Creative Machicnes Lab, Columbia University
 
 ### Markdown
 
