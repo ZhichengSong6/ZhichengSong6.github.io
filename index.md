@@ -9,6 +9,7 @@ Mechanical design and manufacture of bipedal/quadrupedal/wheeled/soft robot, Con
 
 ## Research experience
 **Design and Control of Wheeled-Bipedal Robot**     
+
 Advisor: Wei Zhang  
 CLEAR LAB, Southern University of Science and Technology
 
