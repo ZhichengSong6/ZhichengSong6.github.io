@@ -1,9 +1,18 @@
 ## Education
 
-Bachelor: Huazhong University of Science and Technology(HUST), Marine Engineer. 2015-2019  
+2019.09 - 2021.05 Master of Science in Mechanical Engineering(Robotics Tracks), Columbia University 
 
-Master: Columbia University in the City of New York, Mechanical Engineer(Robotics Tracks). 2019-2021  
+2015.09 - 2019.07 Bachelor of Science in Marine Engineerinng, Huazhong University of Science and Technology
 
+### Research interets
+Mechanical design and manufacture of bipedal/quadrupedal/wheeled/soft robot, Control and learning-based control for robot
+
+### Research experience
+#**Design and Control of Wheeled-Bipedal Robot**
+Advisor: Wei Zhang
+CLEAR LAB, Southern University of Science and Technology
+
+#** **
 
 ### Markdown
 
