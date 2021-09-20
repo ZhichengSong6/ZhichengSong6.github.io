@@ -8,8 +8,8 @@
 Mechanical design and manufacture of bipedal/quadrupedal/wheeled/soft robot, Control and learning-based control for robot
 
 ## Research experience
-###**Design and Control of Wheeled-Bipedal Robot**
-Advisor: Wei Zhang
+### **Design and Control of Wheeled-Bipedal Robot**  
+Advisor: Wei Zhang  
 CLEAR LAB, Southern University of Science and Technology
 
 #** **
