@@ -1,3 +1,17 @@
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Yanwen Jing</h1>
+      <p><b>M.S. in Electrical Engineering at Columbia University  </b></p>
+      <p><b>Tel：1-718-669-0135</b></p>
+      <p><b>Email: yj2556@columbia.edu</b></p>
+    </td>
+    <td width="25%">
+      <img src="https://yoursoulshallbemine.github.io/Yanwen.github.io/me01.jpg" width="100%">      
+    </td>
+  </tr>
+</table>
+
 ## Education
 
 2019.09 - 2021.05 Master of Science in Mechanical Engineering(Robotics Tracks), Columbia University 
