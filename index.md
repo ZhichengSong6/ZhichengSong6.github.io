@@ -1,65 +1,3 @@
----
-title: "Flexipod: A Legged Soft Robot Platform for Dynamic Locomotion"
-tags: Flexipod
-layout: article
-header: false
-footer: false
-text-align: justify
-show_title: false
-article_header:
-
-    align: center
-
----
-
-<style>
-
-    h1 {text-align: center;}
-    p {
-        text-align: justify;
-        text-justify: inter-word;}
-
-    .swiper-demo {width: 100%;}
-
-    .swiper-demo .swiper__slide {
-
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        font-size: 3rem;
-        color: #fff;
-    }
-
-    .center {
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 60%;
-    }
-
-    .imageContainer > img:hover {
-
-        display: block; 
-        margin-left: auto; 
-        margin-right: auto;
-        width: 100%;
-    }
-
-</style>
-
-<script>
-{%- include scripts/lib/swiper.js -%}
-var SOURCES = window. TEXT_VARIABLES.sources; 
-window. Lazyload.js(SOURCES.jquery, function() {
-  $('.swiper-demo').swiper(); 
-}); 
-</script>
-
-<h1 style="border-style: none; margin: 0px; padding: 0px; text-align: center">Flexipod:</h1>
-<h2 style="border-style: none; margin: 0px; padding: 0px; text-align: center">A Legged Soft Robot Platform for Dynamic Locomotion</h2>
-
-
-
 ## Education
 
 2019.09 - 2021.05 Master of Science in Mechanical Engineering(Robotics Tracks), Columbia University 
@@ -89,21 +27,8 @@ Creative Machicnes Lab, Columbia University
 Advisor: Hod Lipson  
 Creative Machicnes Lab, Columbia University
 
-<div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
-  <div class="swiper__wrapper">
+![Branching](./assets/photo.jpg)
 
-    <div class="swiper__slide"><img class="lightbox-ignore" src="./assets/flexipod_at_columbia.jpg"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="./assets/morningside_park_unstructured.jpg"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="./assets/bounding_mat.jpg"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="./assets/columbia_brick.jpg"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="./assets/morningside_park_concrete_floor.jpg"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="./assets/morningside_park_grass.jpg"/></div>
-    <div class="swiper__slide"><img class="lightbox-ignore" src="./assets/morningside_park_sand.jpg"/></div>
-
-  </div>
-  <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
-  <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
-</div>
 
 Abstract—We present an open-source untethered quadrupedal soft robot platform for dynamic locomotion (e.g., high-speed running and backflipping). The robot is mostly soft (80 vol.%) while driven by four geared servo motors. The robot’s soft body and soft legs were 3D printed with gyroid infill using a flexible material, enabling it to conform to the environment and passively stabilize during locomotion on multi-terrain environments. In addition, we simulated the robot in a real-time soft body simulation. With tuned gaits in simulation, the real robot can locomote at a speed of 0.9 m/s (2.5 body length/second), substantially faster than most untethered legged soft robots published to date. We hope this platform, along with its verified simulator, can catalyze the development of soft robotics.
 
