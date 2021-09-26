@@ -1,3 +1,17 @@
+---
+title: "Flexipod: A Legged Soft Robot Platform for Dynamic Locomotion"
+tags: Flexipod
+layout: article
+header: false
+footer: false
+text-align: justify
+show_title: false
+article_header:
+
+    align: center
+
+---
+
 <style>
 
     h1 {text-align: center;}
@@ -32,6 +46,19 @@
     }
 
 </style>
+
+<script>
+{%- include scripts/lib/swiper.js -%}
+var SOURCES = window. TEXT_VARIABLES.sources; 
+window. Lazyload.js(SOURCES.jquery, function() {
+  $('.swiper-demo').swiper(); 
+}); 
+</script>
+
+<h1 style="border-style: none; margin: 0px; padding: 0px; text-align: center">Flexipod:</h1>
+<h2 style="border-style: none; margin: 0px; padding: 0px; text-align: center">A Legged Soft Robot Platform for Dynamic Locomotion</h2>
+
+
 
 ## Education
 
