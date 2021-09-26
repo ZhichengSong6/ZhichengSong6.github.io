@@ -28,10 +28,7 @@ Advisor: Hod Lipson
 Creative Machicnes Lab, Columbia University
 
 ![Branching](./assets/terrain_run.jpg)
-<p><video id="scenario-1" class="video-js vjs-default-skin vjs-big-play-centered" controls
- preload="auto" width="640" height="480" data-setup='{}'>
-  <source src="https://www.youtube.com/watch?v=3h0RwY_tpGc" type='video/mp4'>
-</video></p>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=3h0RwY_tpGc" frameborder="0" allowfullscreen></iframe>
 (https://www.youtube.com/watch?v=3h0RwY_tpGc)
 
 
