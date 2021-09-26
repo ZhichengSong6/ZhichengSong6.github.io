@@ -19,12 +19,12 @@ CLEAR LAB, Southern University of Science and Technology
 
 ### Soft Quadrupedal Robot with Bipedal Running Function _(2020.11 - 2021.05)_
 
-Advisor: Hod Lipson
+Advisor: Hod Lipson  
 Creative Machicnes Lab, Columbia University
 
 ### Soft Quadrupedal Robot Actuated by BLDC motor _(2020.02 - 2020.10)_
 
-Advisor: Hod Lipson
+Advisor: Hod Lipson  
 Creative Machicnes Lab, Columbia University
 
 <div class="swiper my-3 swiper-demo swiper-demo--image swiper-demo--3">
