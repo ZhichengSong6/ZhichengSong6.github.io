@@ -1,3 +1,38 @@
+<style>
+
+    h1 {text-align: center;}
+    p {
+        text-align: justify;
+        text-justify: inter-word;}
+
+    .swiper-demo {width: 100%;}
+
+    .swiper-demo .swiper__slide {
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 3rem;
+        color: #fff;
+    }
+
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+    }
+
+    .imageContainer > img:hover {
+
+        display: block; 
+        margin-left: auto; 
+        margin-right: auto;
+        width: 100%;
+    }
+
+</style>
+
 ## Education
 
 2019.09 - 2021.05 Master of Science in Mechanical Engineering(Robotics Tracks), Columbia University 
