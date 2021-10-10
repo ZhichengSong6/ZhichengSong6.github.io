@@ -17,6 +17,11 @@ Mechanical design and manufacture of bipedal/quadrupedal/wheeled/soft robot, Con
 Advisor: Wei Zhang  
 CLEAR LAB, Southern University of Science and Technology  
 
+![Branching](./assets/Mini-Nezha.jpg) 
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C6oFThXr4-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 Wheeled-Bipedal robot can integrate the advantage of high energy efficiency from wheeled robot and the capability of dealing with sophisticated terrains from bipedal robot. Mini-Nezha was designed and manufactured to accomplish various agile and versatile locomation task and cooperate with the robot arm on the robot. We are now still updating the hardware and software of the robot, I'll update more information once we've finished.
 
 In this project, My contributes are list as below:  
