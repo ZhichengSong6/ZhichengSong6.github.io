@@ -22,6 +22,18 @@ CLEAR LAB, Southern University of Science and Technology
 Advisor: Hod Lipson  
 Creative Machicnes Lab, Columbia University
 
+![Branching](./assets/Flexipod2.0.jpg)  
+![Branching](./assets/PCB.jpg)  
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fAjOaO8Wtlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>  
+
+Based on the [Flexipod](https://boxixia.github.io/Flexipod/) we bulit, we develop it from a 4 DOF soft robot into a 12 DOF soft robot. With Flexipod2.0 we utilized reinforcement learning to make it run both in bipedal and quadrupedal. This project is still ongoing, I'll update more information once it is finished.  
+
+In this project, My contributes are list as below:  
+    **Hardware**: Designed and manufactured the whole robobt and the PCB board inside it. Designed and manufactured a simple cable-driven leg.  
+    **Software**: Created the robots’ URDFs and simulated it in Pybullet to choose motor; Utilized standard reinforcement learning algorithm(DDPG, PPO) to make the robot run and stand in bipedal form; Accomplished real-time on-board camera streaming in C++.
+
 ### Soft Quadrupedal Robot Actuated by BLDC motor _(2020.02 - 2020.10)_
 
 Advisor: Hod Lipson  
