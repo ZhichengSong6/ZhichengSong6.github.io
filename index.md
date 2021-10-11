@@ -22,11 +22,11 @@ CLEAR LAB, Southern University of Science and Technology
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C6oFThXr4-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-Wheeled-Bipedal robot can integrate the advantage of high energy efficiency from wheeled robot and the capability of dealing with sophisticated terrains from bipedal robot. Mini-Nezha was designed and manufactured to accomplish various agile and versatile locomation task and cooperate with the robot arm on the robot. We are now still updating the hardware and software of the robot, I'll update more information once we've finished.
+>Wheeled-Bipedal robot can integrate the advantage of high energy efficiency from wheeled robot and the capability of dealing with sophisticated terrains from bipedal >robot. Mini-Nezha was designed and manufactured to accomplish various agile and versatile locomation task and cooperate with the robot arm on the robot. We are now >still updating the hardware and software of the robot, I'll update more information once we've finished.
 
-In this project, My contributes are list as below:  
-    **Hardware**: Designed and manufactured the whole robobt and the PCB board inside it.  
-    **Software**: Created the robots’ URDFs and simulated it in MuJuCo; Control the robot arm on the robot; Balance the robot based on LQR/PID controller.(_Ongoing_)
+>In this project, My contributes are list as below:  
+>    **Hardware**: Designed and manufactured the whole robobt and the PCB board inside it.  
+>    **Software**: Created the robots’ URDFs and simulated it in MuJuCo; Control the robot arm on the robot; Balance the robot based on LQR/PID controller.(_Ongoing_)
 
 ### Soft Quadrupedal Robot with Bipedal Running Function _(2020.11 - 2021.05)_
 
