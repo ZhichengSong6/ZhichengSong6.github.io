@@ -17,16 +17,17 @@ Mechanical design and manufacture of bipedal/quadrupedal/wheeled/soft robot, Con
 Advisor: Wei Zhang  
 CLEAR LAB, Southern University of Science and Technology  
 
-![Branching](./assets/Mini-Nezha.jpg) 
+![Branching](./assets/robot.jpg)
+![Branching](./assets/control.jpg) 
 <p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C6oFThXr4-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IS4vOGlrugQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
->Wheeled-Bipedal robot can integrate the advantage of high energy efficiency from wheeled robot and the capability of dealing with sophisticated terrains from bipedal >robot. Mini-Nezha was designed and manufactured to accomplish various agile and versatile locomation task and cooperate with the robot arm on the robot. We are now >still updating the hardware and software of the robot, I'll update more information once we've finished.
+>**Abstract**We present the design of mechanical structure and control scheme for a wheeled bipedal robot \textit{MiniNezha}, which is built to handle various indoor environment tasks. By combining the advantages of both legs and wheels structure, the robot can move fast on flat surface and has the ability to overcome sophisticated terrains. The robotic arm attached to the body enables the robot to perform manipulation tasks as well. To effectively control the MiniNezha robot, we propose a convex model predictive control-based strategy, which integrates the functionality of balancing and end-effector control. The proposed controller approximates the robot as a single rigid body and incorporates the dynamical effects of the attached arm. In doing so, the convex MPC-based strategy improves the stability while moving the arm. Experiments are conducted both in simulation and real-world to validate the mechanical design of the MiniNezha robot and the proposed control method.
 >
 >In this project, My contributes are list as below:  
 >    **Hardware**: Designed and manufactured the whole robobt and the PCB board inside it.  
->    **Software**: Created the robots’ URDFs and simulated it in MuJuCo; Control the robot arm on the robot; Balance the robot based on LQR/PID controller.(_Ongoing_)
+>    **Software**: Created the robots’ URDFs and simulated it in MuJuCo; Accomplished the robotic arm's null-space control; Balance the robot based on LQR/PID/MPC controller.
 
 ### Soft Quadrupedal Robot with Bipedal Running Function _(2020.11 - 2021.05)_
 
