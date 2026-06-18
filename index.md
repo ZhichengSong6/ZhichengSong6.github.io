@@ -20,7 +20,7 @@ Before joining HKUST(GZ), I received my M.S. degree in Mechanical Engineering wi
   <div class="pub-content">
     <div class="pub-title">Safe Navigation in Unknown and Cluttered Environments via Direction-Aware Convex Free-Region Generation</div>
     <div class="pub-authors"><strong>Zhicheng Song</strong>, Yongjian Li, Kai Chen, Yulin Li, Fan Shi, and Jun Ma</div>
-    <div class="pub-venue">arXiv preprint arXiv:2604.23648, 2026</div>
+    <div class="pub-venue">Submitted to IEEE Robotics and Automation Letters (RA-L), 2026</div>
     <div class="pub-tags">
       <span class="pub-tag">safe navigation</span>
       <span class="pub-tag">motion planning</span>
@@ -40,7 +40,7 @@ Before joining HKUST(GZ), I received my M.S. degree in Mechanical Engineering wi
   <div class="pub-content">
     <div class="pub-title">Fast and Safe Trajectory Optimization for Mobile Manipulators With Neural Configuration Space Distance Field</div>
     <div class="pub-authors">Yulin Li, Zhiyuan Song, Yiming Li, <strong>Zhicheng Song</strong>, Kai Chen, Chunxin Zheng, Zhihai Bi, Jiahang Cao, Sylvain Calinon, Fan Shi, and Jun Ma</div>
-    <div class="pub-venue">arXiv preprint arXiv:2601.18548, 2026</div>
+    <div class="pub-venue">Submitted to IEEE Transactions on Robotics (T-RO), 2026</div>
     <div class="pub-tags">
       <span class="pub-tag">mobile manipulator</span>
       <span class="pub-tag">trajectory optimization</span>
